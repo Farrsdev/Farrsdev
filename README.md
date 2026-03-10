@@ -15,7 +15,7 @@
 
 #### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![GDevelop](https://img.shields.io/badge/GDevelop-#7000d2?style=for-the-badge&logo=gdevelop&logoColor=white)
+![GDevelop](https://img.shields.io/badge/GDevelop-7000d2?style=for-the-badge&logo=gdevelop&logoColor=white)
 
 #### 💻 Code Editor & Database
 ![Visual Studio](https://img.shields.io/badge/VS%20Code%20(Ungu)-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white)
