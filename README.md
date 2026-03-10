@@ -15,11 +15,11 @@
 
 #### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![GDevelop](https://img.shields.io/badge/GDevelop-00D2B2?style=for-the-badge&logo=gdevelop&logoColor=white)
+![GDevelop](https://img.shields.io/badge/GDevelop-#7000d2?style=for-the-badge&logo=gdevelop&logoColor=white)
 
 #### 💻 Code Editor & Database
-![VS Code - Ungu](https://img.shields.io/badge/VS%20Code%20(Ungu)-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![VS Code - Biru](https://img.shields.io/badge/VS%20Code%20(Biru)-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VS%20Code%20(Ungu)-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20(Biru)-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
